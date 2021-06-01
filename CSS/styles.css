@@ -1,0 +1,18 @@
+
+body{
+    background-color: black;
+    font-family: 'Space Mono', monospace;
+  
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+hr{
+    
+    width: 5%;
+  margin: auto;
+  margin-top: 7%;
+   border-top: 6px dotted #bc6ff1;
+}

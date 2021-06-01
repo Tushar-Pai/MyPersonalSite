@@ -1,0 +1,29 @@
+#contactMe{
+    
+    width: 100%;
+    color: white;
+}
+
+.contact-row{
+    margin-top: 6%;
+}
+.contactMe-heading{
+
+    padding-top: 6% ;
+    text-align: center;
+    color: #892cdc;
+}
+
+.contact-row p{
+    margin-top: 3%;
+}
+
+.back-to-top{
+    
+    position: absolute;
+    
+    left: 92%;
+    top: 295vh;
+  
+
+}

@@ -1,0 +1,26 @@
+
+.nav-container{
+    font-family: 'Space Mono', monospace;
+    font-size: larger;
+    margin: 4% 8%;
+    
+}
+
+
+
+.nav-item{
+    padding: 0 5px 0 5px;
+ 
+}
+.nav-link{
+    color: #892cdc;
+  
+}
+
+.nav-link:hover{
+  
+    color: #bc6ff1;
+}
+
+
+
