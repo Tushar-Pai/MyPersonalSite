@@ -10,9 +10,19 @@ h1,h2,h3,h4,h5,h6{
 }
 
 hr{
-    
+     
     width: 5%;
   margin: auto;
   margin-top: 7%;
    border-top: 6px dotted #bc6ff1;
+}
+
+::-webkit-scrollbar{
+    background-color: black;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #892cdc;
+}
+::-webkit-scrollbar-corner{
+    background-color: black;
 }
