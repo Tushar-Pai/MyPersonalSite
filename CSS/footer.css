@@ -1,7 +1,8 @@
 #contactMe{
-    
+    background-color: #151515;
     width: 100%;
     color: white;
+    
 }
 
 .contact-row{
@@ -12,6 +13,13 @@
     padding-top: 6% ;
     text-align: center;
     color: #892cdc;
+}
+.footer-icon{
+    color: #892cdc;
+}
+
+.footer-icon:hover{
+    color: #bc6ff1;
 }
 
 .contact-row p{
@@ -29,7 +37,11 @@
 }
 
 .copyright{
+
+    padding-top: 8%;
     text-align: center;
     color: rgb(184, 184, 184);
+    margin-bottom: 0;
+    padding-bottom: 2%;
 }
 

@@ -26,3 +26,8 @@ hr{
 ::-webkit-scrollbar-corner{
     background-color: black;
 }
+
+::-webkit-scrollbar-button{
+    background-color: #892cdc;
+    
+}
